@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: c57c3923d4de75343a631dadda343347
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6650535429173044661
+    second: Virement Bancaire-04_0
+  - first:
+      213: 2482994915270089148
+    second: Virement Bancaire-04_1
+  - first:
+      213: 6157131614709579518
+    second: Virement Bancaire-04_2
+  - first:
+      213: -3039012190053311338
+    second: Virement Bancaire-04_3
+  - first:
+      213: -9212219154030842276
+    second: Virement Bancaire-04_4
+  - first:
+      213: 6640368226563135298
+    second: Virement Bancaire-04_5
+  - first:
+      213: -2853048765149697431
+    second: Virement Bancaire-04_6
+  - first:
+      213: -2002349365991571435
+    second: Virement Bancaire-04_7
+  - first:
+      213: 7282855523011252324
+    second: Virement Bancaire-04_8
+  - first:
+      213: 4555776882001780076
+    second: Virement Bancaire-04_9
+  - first:
+      213: -1918073587923681470
+    second: Virement Bancaire-04_10
+  - first:
+      213: 4270290418349072805
+    second: Virement Bancaire-04_11
+  - first:
+      213: -71380331055130709
+    second: Virement Bancaire-04_12
+  - first:
+      213: -6390290282649797539
+    second: Virement Bancaire-04_13
+  - first:
+      213: 1604128241754707917
+    second: Virement Bancaire-04_14
+  - first:
+      213: -408308625726596035
+    second: Virement Bancaire-04_15
+  - first:
+      213: -3422182625709022284
+    second: Virement Bancaire-04_16
+  - first:
+      213: -581936914104489038
+    second: Virement Bancaire-04_17
+  - first:
+      213: 5005213184151162904
+    second: Virement Bancaire-04_18
+  - first:
+      213: 8759003408459771183
+    second: Virement Bancaire-04_19
+  - first:
+      213: 405977382399553149
+    second: Virement Bancaire-04_20
+  - first:
+      213: -2915386807649186632
+    second: Virement Bancaire-04_21
+  - first:
+      213: 6664806860216320067
+    second: Virement Bancaire-04_22
+  - first:
+      213: 8643987254673519089
+    second: Virement Bancaire-04_23
+  - first:
+      213: -8752743091202449089
+    second: Virement Bancaire-04_24
+  - first:
+      213: -5684191228958176498
+    second: Virement Bancaire-04_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Virement Bancaire-04_2
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 10599
+        width: 1506
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe771ae496827550800000000000000
+      internalID: 6157131614709579518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_6
+      rect:
+        serializedVersion: 2
+        x: 3442
+        y: 10639
+        width: 324
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aa262a34fe768d0800000000000000
+      internalID: -2853048765149697431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_7
+      rect:
+        serializedVersion: 2
+        x: 3922
+        y: 10639
+        width: 319
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51008db4cd93634e0800000000000000
+      internalID: -2002349365991571435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_18
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 10577
+        width: 469
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8109e6a4fd6167540800000000000000
+      internalID: 5005213184151162904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_19
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 9701
+        width: 1537
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d2eab513b3e8970800000000000000
+      internalID: 8759003408459771183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_20
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 8674
+        width: 2974
+        height: 760
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ea4c0474252a500800000000000000
+      internalID: 405977382399553149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 7735
+        width: 2974
+        height: 761
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcc53315277a87d0800000000000000
+      internalID: -2915386807649186632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virement Bancaire-04_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 478
+        width: 4517
+        height: 2878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b8e828132bd11b0800000000000000
+      internalID: -5684191228958176498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2e9ef119854941148b4e6a34fec79073
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Virement Bancaire-04_18: 5005213184151162904
+      Virement Bancaire-04_20: 405977382399553149
+      Virement Bancaire-04_21: -2915386807649186632
+      Virement Bancaire-04_19: 8759003408459771183
+      Virement Bancaire-04_25: -5684191228958176498
+      Virement Bancaire-04_7: -2002349365991571435
+      Virement Bancaire-04_6: -2853048765149697431
+      Virement Bancaire-04_2: 6157131614709579518
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

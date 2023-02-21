@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: 67b77cdf929edd6428914ec877322e25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1109957209045789548
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_0
+  - first:
+      213: 912727725868170738
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_1
+  - first:
+      213: 7096852192893595901
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_2
+  - first:
+      213: 5580537879367901312
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_3
+  - first:
+      213: 626556997649640117
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_4
+  - first:
+      213: -3545214171840864636
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_5
+  - first:
+      213: -1947282082024489449
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_6
+  - first:
+      213: -2745665003827721608
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_7
+  - first:
+      213: 6954978774095116406
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_8
+  - first:
+      213: 2411320705746934960
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_9
+  - first:
+      213: 1763793045553211623
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_10
+  - first:
+      213: -4737743324715909532
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_11
+  - first:
+      213: 8678067424679278275
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_12
+  - first:
+      213: -2817061964755901557
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_13
+  - first:
+      213: -3462322926753435070
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_14
+  - first:
+      213: 3929418206732189729
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_15
+  - first:
+      213: 1612444595906904052
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_16
+  - first:
+      213: 3901820541699914326
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_17
+  - first:
+      213: -8571652420480693243
+    second: Flags_Game_Graphics_Flags_SpriteSheet_05_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2365
+        width: 529
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49411f69cc3a890f0800000000000000
+      internalID: -1109957209045789548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_1
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2338
+        width: 482
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdb505e709aaac00800000000000000
+      internalID: 912727725868170738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_2
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 2341
+        width: 535
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ffdcf7751d7260800000000000000
+      internalID: 7096852192893595901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1834
+        width: 567
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080e55362ad027d40800000000000000
+      internalID: 5580537879367901312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_4
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1836
+        width: 589
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba217c054af1b800800000000000000
+      internalID: 626556997649640117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_5
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1841
+        width: 575
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e9eba7e7edccec0800000000000000
+      internalID: -3545214171840864636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_6
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1834
+        width: 593
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e7277734dd9f4e0800000000000000
+      internalID: -1947282082024489449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1205
+        width: 692
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a80a6e93075e9d0800000000000000
+      internalID: -2745665003827721608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_8
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1205
+        width: 692
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6783252985c058060800000000000000
+      internalID: 6954978774095116406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_9
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1200
+        width: 706
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc1799f76bb67120800000000000000
+      internalID: 2411320705746934960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_10
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 1203
+        width: 697
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e0811e604a7810800000000000000
+      internalID: 1763793045553211623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 631
+        width: 702
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e745d3c87204eb0800000000000000
+      internalID: -4737743324715909532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_12
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 638
+        width: 698
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6b5e82850be6870800000000000000
+      internalID: 8678067424679278275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_13
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 634
+        width: 710
+        height: 416
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83e5788119c7e8d0800000000000000
+      internalID: -2817061964755901557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_14
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 634
+        width: 710
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242bb2d64ab53ffc0800000000000000
+      internalID: -3462322926753435070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 693
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12089324a09188630800000000000000
+      internalID: 3929418206732189729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_16
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 0
+        width: 689
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff770f11dd806610800000000000000
+      internalID: 1612444595906904052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_17
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 7
+        width: 696
+        height: 406
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a78552c1d062630800000000000000
+      internalID: 3901820541699914326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flags_Game_Graphics_Flags_SpriteSheet_05_18
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2339
+        width: 569
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8123c98f5b0980800000000000000
+      internalID: -8571652420480693243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 064d5d1d31e996f4a8e838db1511ac3e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Flags_Game_Graphics_Flags_SpriteSheet_05_18: -8571652420480693243
+      Flags_Game_Graphics_Flags_SpriteSheet_05_7: -2745665003827721608
+      Flags_Game_Graphics_Flags_SpriteSheet_05_0: -1109957209045789548
+      Flags_Game_Graphics_Flags_SpriteSheet_05_11: -4737743324715909532
+      Flags_Game_Graphics_Flags_SpriteSheet_05_8: 6954978774095116406
+      Flags_Game_Graphics_Flags_SpriteSheet_05_16: 1612444595906904052
+      Flags_Game_Graphics_Flags_SpriteSheet_05_2: 7096852192893595901
+      Flags_Game_Graphics_Flags_SpriteSheet_05_9: 2411320705746934960
+      Flags_Game_Graphics_Flags_SpriteSheet_05_13: -2817061964755901557
+      Flags_Game_Graphics_Flags_SpriteSheet_05_1: 912727725868170738
+      Flags_Game_Graphics_Flags_SpriteSheet_05_17: 3901820541699914326
+      Flags_Game_Graphics_Flags_SpriteSheet_05_4: 626556997649640117
+      Flags_Game_Graphics_Flags_SpriteSheet_05_14: -3462322926753435070
+      Flags_Game_Graphics_Flags_SpriteSheet_05_6: -1947282082024489449
+      Flags_Game_Graphics_Flags_SpriteSheet_05_15: 3929418206732189729
+      Flags_Game_Graphics_Flags_SpriteSheet_05_5: -3545214171840864636
+      Flags_Game_Graphics_Flags_SpriteSheet_05_10: 1763793045553211623
+      Flags_Game_Graphics_Flags_SpriteSheet_05_3: 5580537879367901312
+      Flags_Game_Graphics_Flags_SpriteSheet_05_12: 8678067424679278275
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,515 @@
+fileFormatVersion: 2
+guid: 79a10435ef4613244808602695e0511f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2797353569490825843
+    second: Graphics_Achievements_SpriteSheet_0-05_0
+  - first:
+      213: 5400852722057700358
+    second: Graphics_Achievements_SpriteSheet_0-05_1
+  - first:
+      213: -1601602303006675374
+    second: Graphics_Achievements_SpriteSheet_0-05_2
+  - first:
+      213: -2345220377416100645
+    second: Graphics_Achievements_SpriteSheet_0-05_3
+  - first:
+      213: -6233801853246072088
+    second: Graphics_Achievements_SpriteSheet_0-05_4
+  - first:
+      213: -1832666586271983806
+    second: Graphics_Achievements_SpriteSheet_0-05_5
+  - first:
+      213: -8647896622381316375
+    second: Graphics_Achievements_SpriteSheet_0-05_6
+  - first:
+      213: 4165193049612148610
+    second: Graphics_Achievements_SpriteSheet_0-05_7
+  - first:
+      213: 8553861322806100727
+    second: Graphics_Achievements_SpriteSheet_0-05_8
+  - first:
+      213: 8162239985762116968
+    second: Graphics_Achievements_SpriteSheet_0-05_9
+  - first:
+      213: 4273176984227091124
+    second: Graphics_Achievements_SpriteSheet_0-05_10
+  - first:
+      213: -3694496316115492946
+    second: Graphics_Achievements_SpriteSheet_0-05_11
+  - first:
+      213: 6171573702486729666
+    second: Graphics_Achievements_SpriteSheet_0-05_12
+  - first:
+      213: 1732528638400535122
+    second: Graphics_Achievements_SpriteSheet_0-05_13
+  - first:
+      213: -797823411959477668
+    second: Graphics_Achievements_SpriteSheet_0-05_14
+  - first:
+      213: -7141193370536510930
+    second: Graphics_Achievements_SpriteSheet_0-05_15
+  - first:
+      213: 5899509348318370944
+    second: Graphics_Achievements_SpriteSheet_0-05_16
+  - first:
+      213: 6178911958913541607
+    second: Graphics_Achievements_SpriteSheet_0-05_17
+  - first:
+      213: 4617993084261775288
+    second: Graphics_Achievements_SpriteSheet_0-05_18
+  - first:
+      213: -580850885461697158
+    second: Graphics_Achievements_SpriteSheet_0-05_19
+  - first:
+      213: 9086004332984059890
+    second: Graphics_Achievements_SpriteSheet_0-05_20
+  - first:
+      213: 613086829269042242
+    second: Graphics_Achievements_SpriteSheet_0-05_21
+  - first:
+      213: -2530178461329099166
+    second: Graphics_Achievements_SpriteSheet_0-05_22
+  - first:
+      213: 3430646724069325565
+    second: Graphics_Achievements_SpriteSheet_0-05_23
+  - first:
+      213: 5320723496915360811
+    second: Graphics_Achievements_SpriteSheet_0-05_24
+  - first:
+      213: -5242069296962375490
+    second: Graphics_Achievements_SpriteSheet_0-05_25
+  - first:
+      213: -5455324825972282051
+    second: Graphics_Achievements_SpriteSheet_0-05_26
+  - first:
+      213: 1477583859668073476
+    second: Graphics_Achievements_SpriteSheet_0-05_27
+  - first:
+      213: -972081616879271788
+    second: Graphics_Achievements_SpriteSheet_0-05_28
+  - first:
+      213: 7519788277697168956
+    second: Graphics_Achievements_SpriteSheet_0-05_29
+  - first:
+      213: -6433254009170751781
+    second: Graphics_Achievements_SpriteSheet_0-05_30
+  - first:
+      213: 6799171493931838321
+    second: Graphics_Achievements_SpriteSheet_0-05_31
+  - first:
+      213: -1433675604230983080
+    second: Graphics_Achievements_SpriteSheet_0-05_32
+  - first:
+      213: -4846829678310102347
+    second: Graphics_Achievements_SpriteSheet_0-05_33
+  - first:
+      213: 8985666375530824231
+    second: Graphics_Achievements_SpriteSheet_0-05_34
+  - first:
+      213: 6182487328067335686
+    second: Graphics_Achievements_SpriteSheet_0-05_35
+  - first:
+      213: -5692223466928467948
+    second: Graphics_Achievements_SpriteSheet_0-05_36
+  - first:
+      213: 1704634744694075208
+    second: Graphics_Achievements_SpriteSheet_0-05_37
+  - first:
+      213: 1169213963030801887
+    second: Graphics_Achievements_SpriteSheet_0-05_38
+  - first:
+      213: -2417576527074029327
+    second: Graphics_Achievements_SpriteSheet_0-05_39
+  - first:
+      213: -6171737626789607388
+    second: Graphics_Achievements_SpriteSheet_0-05_40
+  - first:
+      213: 8354856474594565926
+    second: Graphics_Achievements_SpriteSheet_0-05_41
+  - first:
+      213: -256801080489077683
+    second: Graphics_Achievements_SpriteSheet_0-05_42
+  - first:
+      213: 423937331824225827
+    second: Graphics_Achievements_SpriteSheet_0-05_43
+  - first:
+      213: -1448782436144886719
+    second: Graphics_Achievements_SpriteSheet_0-05_44
+  - first:
+      213: -3317064758778489147
+    second: Graphics_Achievements_SpriteSheet_0-05_45
+  - first:
+      213: 5846962382292420374
+    second: Graphics_Achievements_SpriteSheet_0-05_46
+  - first:
+      213: -2706183336469403134
+    second: Graphics_Achievements_SpriteSheet_0-05_47
+  - first:
+      213: -6005480219642916847
+    second: Graphics_Achievements_SpriteSheet_0-05_48
+  - first:
+      213: 8536141529504942760
+    second: Graphics_Achievements_SpriteSheet_0-05_49
+  - first:
+      213: 1268235942236186594
+    second: Graphics_Achievements_SpriteSheet_0-05_50
+  - first:
+      213: -8766137785196612735
+    second: Graphics_Achievements_SpriteSheet_0-05_51
+  - first:
+      213: 2618690469454679591
+    second: Graphics_Achievements_SpriteSheet_0-05_52
+  - first:
+      213: -198713202630258891
+    second: Graphics_Achievements_SpriteSheet_0-05_53
+  - first:
+      213: -5859690118782586118
+    second: Graphics_Achievements_SpriteSheet_0-05_54
+  - first:
+      213: 1241900228084904956
+    second: Graphics_Achievements_SpriteSheet_0-05_55
+  - first:
+      213: -474576443624693640
+    second: Graphics_Achievements_SpriteSheet_0-05_56
+  - first:
+      213: 8431230480923097695
+    second: Graphics_Achievements_SpriteSheet_0-05_57
+  - first:
+      213: -3609429314984364272
+    second: Graphics_Achievements_SpriteSheet_0-05_58
+  - first:
+      213: 1196047705758663778
+    second: Graphics_Achievements_SpriteSheet_0-05_59
+  - first:
+      213: 3780285862488525208
+    second: Graphics_Achievements_SpriteSheet_0-05_60
+  - first:
+      213: -4321692472377241607
+    second: Graphics_Achievements_SpriteSheet_0-05_61
+  - first:
+      213: -3438252099915007265
+    second: Graphics_Achievements_SpriteSheet_0-05_62
+  - first:
+      213: -3364365147433527191
+    second: Graphics_Achievements_SpriteSheet_0-05_63
+  - first:
+      213: -7010372287060859933
+    second: Graphics_Achievements_SpriteSheet_0-05_64
+  - first:
+      213: -3940209572685435973
+    second: Graphics_Achievements_SpriteSheet_0-05_65
+  - first:
+      213: 469347703705821129
+    second: Graphics_Achievements_SpriteSheet_0-05_66
+  - first:
+      213: -3595105137696740940
+    second: Graphics_Achievements_SpriteSheet_0-05_67
+  - first:
+      213: -5710032873898450692
+    second: Graphics_Achievements_SpriteSheet_0-05_68
+  - first:
+      213: -4196660035468665683
+    second: Graphics_Achievements_SpriteSheet_0-05_69
+  - first:
+      213: 7944139035371054129
+    second: Graphics_Achievements_SpriteSheet_0-05_70
+  - first:
+      213: -6881428531860493736
+    second: Graphics_Achievements_SpriteSheet_0-05_71
+  - first:
+      213: -2593405765146921856
+    second: Graphics_Achievements_SpriteSheet_0-05_72
+  - first:
+      213: 2170566568747640882
+    second: Graphics_Achievements_SpriteSheet_0-05_73
+  - first:
+      213: -9110705039632627147
+    second: Graphics_Achievements_SpriteSheet_0-05_74
+  - first:
+      213: 4465677080812838166
+    second: Graphics_Achievements_SpriteSheet_0-05_75
+  - first:
+      213: -5805013563825340385
+    second: Graphics_Achievements_SpriteSheet_0-05_76
+  - first:
+      213: -4680063169791733660
+    second: Graphics_Achievements_SpriteSheet_0-05_77
+  - first:
+      213: -5587039217794270899
+    second: Graphics_Achievements_SpriteSheet_0-05_78
+  - first:
+      213: 730321427488671194
+    second: Graphics_Achievements_SpriteSheet_0-05_79
+  - first:
+      213: -5313536714015333499
+    second: Graphics_Achievements_SpriteSheet_0-05_80
+  - first:
+      213: 9169510587812529711
+    second: Graphics_Achievements_SpriteSheet_0-05_81
+  - first:
+      213: -5853377428255387116
+    second: Graphics_Achievements_SpriteSheet_0-05_82
+  - first:
+      213: -9081134275826281699
+    second: Graphics_Achievements_SpriteSheet_0-05_83
+  - first:
+      213: -6461799241369377351
+    second: Graphics_Achievements_SpriteSheet_0-05_84
+  - first:
+      213: 7211091789207553473
+    second: Graphics_Achievements_SpriteSheet_0-05_85
+  - first:
+      213: -8119576035790366681
+    second: Graphics_Achievements_SpriteSheet_0-05_86
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-05_0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1617
+        width: 750
+        height: 841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d0453efbdcd29d0800000000000000
+      internalID: -2797353569490825843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-05_1
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 1615
+        width: 749
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604637e8feea3fa40800000000000000
+      internalID: 5400852722057700358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-05_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 597
+        width: 490
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee6d9e037f5c9e0800000000000000
+      internalID: -1601602303006675374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-05_3
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 571
+        width: 494
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd41b140e7a147fd0800000000000000
+      internalID: -2345220377416100645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-05_4
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 931
+        width: 570
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea98191e361d79a0800000000000000
+      internalID: -6233801853246072088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-05_5
+      rect:
+        serializedVersion: 2
+        x: 3486
+        y: 261
+        width: 368
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247d78d137f0196e0800000000000000
+      internalID: -1832666586271983806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ebdf8456227676a41b20b78d94038e1d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Graphics_Achievements_SpriteSheet_0-05_0: -2797353569490825843
+      Graphics_Achievements_SpriteSheet_0-05_5: -1832666586271983806
+      Graphics_Achievements_SpriteSheet_0-05_4: -6233801853246072088
+      Graphics_Achievements_SpriteSheet_0-05_3: -2345220377416100645
+      Graphics_Achievements_SpriteSheet_0-05_2: -1601602303006675374
+      Graphics_Achievements_SpriteSheet_0-05_1: 5400852722057700358
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

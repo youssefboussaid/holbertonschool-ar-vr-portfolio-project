@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 4df2874f09f9c314a97e922a12842764
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5563610529804087882
+    second: OnAppSubscription-07_0
+  - first:
+      213: -4652421895988851215
+    second: OnAppSubscription-07_1
+  - first:
+      213: 2155168884653844806
+    second: OnAppSubscription-07_2
+  - first:
+      213: 6087255656683027625
+    second: OnAppSubscription-07_3
+  - first:
+      213: 6645061470172957645
+    second: OnAppSubscription-07_4
+  - first:
+      213: 3629096059129843478
+    second: OnAppSubscription-07_5
+  - first:
+      213: -1374566405578854582
+    second: OnAppSubscription-07_6
+  - first:
+      213: -5887626703727317309
+    second: OnAppSubscription-07_7
+  - first:
+      213: -5300043428631547661
+    second: OnAppSubscription-07_8
+  - first:
+      213: 1781488678882262920
+    second: OnAppSubscription-07_9
+  - first:
+      213: 1681019079122067257
+    second: OnAppSubscription-07_10
+  - first:
+      213: 2295380170443652966
+    second: OnAppSubscription-07_11
+  - first:
+      213: 3877528234023569285
+    second: OnAppSubscription-07_12
+  - first:
+      213: -8752441825190742271
+    second: OnAppSubscription-07_13
+  - first:
+      213: 8737778340856732309
+    second: OnAppSubscription-07_14
+  - first:
+      213: 2644603455495176667
+    second: OnAppSubscription-07_15
+  - first:
+      213: 3733446365476493200
+    second: OnAppSubscription-07_16
+  - first:
+      213: -392356708614915817
+    second: OnAppSubscription-07_17
+  - first:
+      213: -4271907342788166969
+    second: OnAppSubscription-07_18
+  - first:
+      213: -2415087963057036675
+    second: OnAppSubscription-07_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OnAppSubscription-07_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4844
+        width: 1652
+        height: 1649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd876e43b51ac2b0800000000000000
+      internalID: -5563610529804087882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_1
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 5686
+        width: 988
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdc5586fe64f6fb0800000000000000
+      internalID: -4652421895988851215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_5
+      rect:
+        serializedVersion: 2
+        x: 3683
+        y: 4961
+        width: 1787
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f443453a32d5230800000000000000
+      internalID: 3629096059129843478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_6
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 3177
+        width: 4511
+        height: 1224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f694b032f8cece0800000000000000
+      internalID: -1374566405578854582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_7
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1134
+        width: 1275
+        height: 1507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ceaa3af4b2fa4ea0800000000000000
+      internalID: -5887626703727317309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_8
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1089
+        width: 1729
+        height: 1460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f54e15967276b0800000000000000
+      internalID: -5300043428631547661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_9
+      rect:
+        serializedVersion: 2
+        x: 5507
+        y: 2092
+        width: 152
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f3824c38e19b810800000000000000
+      internalID: 1781488678882262920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 351
+        width: 2321
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71934cdf6a11e8af0800000000000000
+      internalID: -392356708614915817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OnAppSubscription-07_19
+      rect:
+        serializedVersion: 2
+        x: 3661
+        y: 303
+        width: 612
+        height: 513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72e9a41b42eb7ed0800000000000000
+      internalID: -2415087963057036675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8178c23b4c1db4040a326fb92a75c2fc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      OnAppSubscription-07_19: -2415087963057036675
+      OnAppSubscription-07_1: -4652421895988851215
+      OnAppSubscription-07_17: -392356708614915817
+      OnAppSubscription-07_5: 3629096059129843478
+      OnAppSubscription-07_9: 1781488678882262920
+      OnAppSubscription-07_8: -5300043428631547661
+      OnAppSubscription-07_0: -5563610529804087882
+      OnAppSubscription-07_7: -5887626703727317309
+      OnAppSubscription-07_6: -1374566405578854582
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

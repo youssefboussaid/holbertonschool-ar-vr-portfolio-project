@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 7d073cc49e02fb34dae640495ac9585d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6194941838352516446
+    second: Graphics_Authentication_SpriteSheet_0
+  - first:
+      213: -1215819544613315169
+    second: Graphics_Authentication_SpriteSheet_1
+  - first:
+      213: -5836460098805428137
+    second: Graphics_Authentication_SpriteSheet_2
+  - first:
+      213: 4357010971168210678
+    second: Graphics_Authentication_SpriteSheet_3
+  - first:
+      213: 7316935285959765450
+    second: Graphics_Authentication_SpriteSheet_4
+  - first:
+      213: -864636556281950122
+    second: Graphics_Authentication_SpriteSheet_5
+  - first:
+      213: -4411105850433852166
+    second: Graphics_Authentication_SpriteSheet_6
+  - first:
+      213: 6120631784662219043
+    second: Graphics_Authentication_SpriteSheet_7
+  - first:
+      213: 926313805126165801
+    second: Graphics_Authentication_SpriteSheet_8
+  - first:
+      213: 3777380602933671483
+    second: Graphics_Authentication_SpriteSheet_9
+  - first:
+      213: -5634851680594808925
+    second: Graphics_Authentication_SpriteSheet_10
+  - first:
+      213: -5135764370418879646
+    second: Graphics_Authentication_SpriteSheet_11
+  - first:
+      213: 6660050524437971388
+    second: Graphics_Authentication_SpriteSheet_12
+  - first:
+      213: -9037446647967764209
+    second: Graphics_Authentication_SpriteSheet_13
+  - first:
+      213: -1529847533383526034
+    second: Graphics_Authentication_SpriteSheet_14
+  - first:
+      213: -8903112348556315729
+    second: Graphics_Authentication_SpriteSheet_15
+  - first:
+      213: -8998928007827842283
+    second: Graphics_Authentication_SpriteSheet_16
+  - first:
+      213: -5881700350588127724
+    second: Graphics_Authentication_SpriteSheet_17
+  - first:
+      213: -3007227504909150713
+    second: Graphics_Authentication_SpriteSheet_18
+  - first:
+      213: -5692003125758571780
+    second: Graphics_Authentication_SpriteSheet_19
+  - first:
+      213: -9035212877585375499
+    second: Graphics_Authentication_SpriteSheet_20
+  - first:
+      213: -4503571617519724974
+    second: Graphics_Authentication_SpriteSheet_21
+  - first:
+      213: 8417610753645129558
+    second: Graphics_Authentication_SpriteSheet_22
+  - first:
+      213: -8394018085786698034
+    second: Graphics_Authentication_SpriteSheet_23
+  - first:
+      213: -8379456750917047149
+    second: Graphics_Authentication_SpriteSheet_24
+  - first:
+      213: 6627447478618558733
+    second: Graphics_Authentication_SpriteSheet_25
+  - first:
+      213: 3580024414863027195
+    second: Graphics_Authentication_SpriteSheet_26
+  - first:
+      213: -2420317245461236989
+    second: Graphics_Authentication_SpriteSheet_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2612
+        width: 1174
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55053f97cad8f550800000000000000
+      internalID: 6194941838352516446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 2849
+        width: 1490
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6505ff212a13004f0800000000000000
+      internalID: -864636556281950122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1626
+        width: 574
+        height: 599
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2e3e999a98c2c0800000000000000
+      internalID: -4411105850433852166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2053
+        width: 646
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b1cdfd2ad0f450800000000000000
+      internalID: 6120631784662219043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1560
+        width: 702
+        height: 700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925e5197f7deadc00800000000000000
+      internalID: 926313805126165801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2718
+        y: 1560
+        width: 702
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36ff4b15a3fb6430800000000000000
+      internalID: 3777380602933671483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1696
+        width: 727
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263331bf3891ab8b0800000000000000
+      internalID: -5135764370418879646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 1738
+        width: 256
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1874f5aa04d6c50800000000000000
+      internalID: 6660050524437971388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Authentication_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 0
+        width: 1150
+        height: 1190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69da2c16c3e4cae0800000000000000
+      internalID: -1529847533383526034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7123c4854065c2b49b7063d3bd267b99
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Graphics_Authentication_SpriteSheet_5: -864636556281950122
+      Graphics_Authentication_SpriteSheet_9: 3777380602933671483
+      Graphics_Authentication_SpriteSheet_14: -1529847533383526034
+      Graphics_Authentication_SpriteSheet_6: -4411105850433852166
+      Graphics_Authentication_SpriteSheet_12: 6660050524437971388
+      Graphics_Authentication_SpriteSheet_8: 926313805126165801
+      Graphics_Authentication_SpriteSheet_11: -5135764370418879646
+      Graphics_Authentication_SpriteSheet_7: 6120631784662219043
+      Graphics_Authentication_SpriteSheet_0: 6194941838352516446
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

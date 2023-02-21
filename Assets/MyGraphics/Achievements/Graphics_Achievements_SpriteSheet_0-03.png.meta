@@ -1,0 +1,354 @@
+fileFormatVersion: 2
+guid: 0014d68abb0dcce4486c761555a56b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4445418337204409329
+    second: Graphics_Achievements_SpriteSheet_0-03_0
+  - first:
+      213: 6042732707583041682
+    second: Graphics_Achievements_SpriteSheet_0-03_1
+  - first:
+      213: -7623054541519911969
+    second: Graphics_Achievements_SpriteSheet_0-03_2
+  - first:
+      213: -8545133577400550920
+    second: Graphics_Achievements_SpriteSheet_0-03_3
+  - first:
+      213: 7864010266637189472
+    second: Graphics_Achievements_SpriteSheet_0-03_4
+  - first:
+      213: 1862752092600182650
+    second: Graphics_Achievements_SpriteSheet_0-03_5
+  - first:
+      213: -2269263500641288159
+    second: Graphics_Achievements_SpriteSheet_0-03_6
+  - first:
+      213: 8121251545931392394
+    second: Graphics_Achievements_SpriteSheet_0-03_7
+  - first:
+      213: -6309103286415007466
+    second: Graphics_Achievements_SpriteSheet_0-03_8
+  - first:
+      213: 6372865748125951474
+    second: Graphics_Achievements_SpriteSheet_0-03_9
+  - first:
+      213: 5143258281639696398
+    second: Graphics_Achievements_SpriteSheet_0-03_10
+  - first:
+      213: -4132245091346572349
+    second: Graphics_Achievements_SpriteSheet_0-03_11
+  - first:
+      213: 1729818814488897894
+    second: Graphics_Achievements_SpriteSheet_0-03_12
+  - first:
+      213: -5913971833334375303
+    second: Graphics_Achievements_SpriteSheet_0-03_13
+  - first:
+      213: -8734082678289229196
+    second: Graphics_Achievements_SpriteSheet_0-03_14
+  - first:
+      213: 2351246385917215699
+    second: Graphics_Achievements_SpriteSheet_0-03_15
+  - first:
+      213: -5492506215491689453
+    second: Graphics_Achievements_SpriteSheet_0-03_16
+  - first:
+      213: -1022625787833815600
+    second: Graphics_Achievements_SpriteSheet_0-03_17
+  - first:
+      213: 2320439241747482074
+    second: Graphics_Achievements_SpriteSheet_0-03_18
+  - first:
+      213: -6783970354057818788
+    second: Graphics_Achievements_SpriteSheet_0-03_19
+  - first:
+      213: 5355492264976342894
+    second: Graphics_Achievements_SpriteSheet_0-03_20
+  - first:
+      213: 1819650578048477622
+    second: Graphics_Achievements_SpriteSheet_0-03_21
+  - first:
+      213: -3690354800953704326
+    second: Graphics_Achievements_SpriteSheet_0-03_22
+  - first:
+      213: 9014488707639901784
+    second: Graphics_Achievements_SpriteSheet_0-03_23
+  - first:
+      213: 403360929567765438
+    second: Graphics_Achievements_SpriteSheet_0-03_24
+  - first:
+      213: 7822242213329979034
+    second: Graphics_Achievements_SpriteSheet_0-03_25
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 734
+        width: 413
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f39313cc6c41bd30800000000000000
+      internalID: 4445418337204409329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_10
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1016
+        width: 295
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0858313826806740800000000000000
+      internalID: 5143258281639696398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_11
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 882
+        width: 255
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9f65abf057a6c0800000000000000
+      internalID: -4132245091346572349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 817
+        width: 314
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e56bfb0d810810800000000000000
+      internalID: 1729818814488897894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_13
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 176
+        width: 413
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c507e73f95deda0800000000000000
+      internalID: -5913971833334375303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_24
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 324
+        width: 194
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3782bd0a6099500800000000000000
+      internalID: 403360929567765438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Graphics_Achievements_SpriteSheet_0-03_25
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 258
+        width: 313
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96499859df2e8c60800000000000000
+      internalID: 7822242213329979034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c52a255556aa04947976ce60481ff3d4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Graphics_Achievements_SpriteSheet_0-03_10: 5143258281639696398
+      Graphics_Achievements_SpriteSheet_0-03_12: 1729818814488897894
+      Graphics_Achievements_SpriteSheet_0-03_25: 7822242213329979034
+      Graphics_Achievements_SpriteSheet_0-03_0: 4445418337204409329
+      Graphics_Achievements_SpriteSheet_0-03_13: -5913971833334375303
+      Graphics_Achievements_SpriteSheet_0-03_11: -4132245091346572349
+      Graphics_Achievements_SpriteSheet_0-03_24: 403360929567765438
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
